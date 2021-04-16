@@ -9,7 +9,7 @@ This project focuses more on how to develop LKM. So I won't cover more basic kno
 * You'd better know how to use Makefile.
 
 ## Development Environment
-My development environment is `macOS` + `VirtualBox` + `Arch Linux` + `tmux` + `neovim`.
+My development environment is `macOS` + `VirtualBox` + `Arch Linux` + `tmux` + `neovim`.  
 Current kernel version is `5.10.19-1`. I use the lts version.
 ### tmux
 Default configuration is enough.
