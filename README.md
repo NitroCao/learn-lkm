@@ -22,3 +22,11 @@ I just list several important plugins.
 * LeaderF
 
 ## Lessons
+### Lesson 1 - Hello World
+The first lesson starts from a hello world LKM.
+Lesson link: [Lesson 1 - Hello World](hello-world/README.md)
+Basic targets:
+
+  * Learn about the basic components of a LKM program.
+  * Learn how to pass parameters to a LKM when loading.
+  * Learn about the kernel symbol table.
